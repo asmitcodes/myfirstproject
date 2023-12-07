@@ -1,0 +1,18 @@
+.blue-section {
+  background-color: var(--bg-blue);
+}
+.blue-child {
+  margin-left: 35vw;
+}
+@media all and (max-width: 1279px) {
+  .blue-section {
+    background-position: center bottom;
+  }
+}
+@media all and (max-width: 767px) {
+  .blue-section {
+    min-height: 750px;
+    background-position: center;
+    margin-left: 0;
+  }
+}

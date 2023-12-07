@@ -1,0 +1,15 @@
+.third-section {
+  background-color: var(--bg-red);
+}
+
+@media all and (max-width: 1279px) {
+  .third-section {
+    background-position: center bottom;
+  }
+}
+@media all and (max-width: 767px) {
+  .third-section {
+    min-height: 750px;
+    background-position: center;
+  }
+}
