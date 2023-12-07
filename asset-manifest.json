@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myfirstproject/static/css/main.79b96ff1.css",
+    "main.js": "/myfirstproject/static/js/main.43b4deff.js",
+    "static/js/787.c939ce25.chunk.js": "/myfirstproject/static/js/787.c939ce25.chunk.js",
+    "static/media/designteam.png": "/myfirstproject/static/media/designteam.b8546d221efe01e1d648.png",
+    "static/media/Gilroy-UltraLight.ttf": "/myfirstproject/static/media/Gilroy-UltraLight.768c44ec57dc827381b3.ttf",
+    "static/media/Gilroy-Light.ttf": "/myfirstproject/static/media/Gilroy-Light.1822a291dd62fe2cca72.ttf",
+    "static/media/Gilroy-Regular.ttf": "/myfirstproject/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
+    "static/media/Gilroy-Medium.ttf": "/myfirstproject/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
+    "static/media/Gilroy-SemiBold.ttf": "/myfirstproject/static/media/Gilroy-SemiBold.07b9100a72fe7d46d20a.ttf",
+    "static/media/Gilroy-Bold.ttf": "/myfirstproject/static/media/Gilroy-Bold.ca49f7658c4eaac78b6d.ttf",
+    "static/media/Gilroy-ExtraBold.ttf": "/myfirstproject/static/media/Gilroy-ExtraBold.59a66eb8c577778daaa5.ttf",
+    "static/media/Gilroy-Black.ttf": "/myfirstproject/static/media/Gilroy-Black.3566c87fe5eaaa7052d5.ttf",
+    "static/media/deslogo.png": "/myfirstproject/static/media/deslogo.ac3df401cf5a3022e4b3.png",
+    "static/media/bgpurple.png": "/myfirstproject/static/media/bgpurple.6815b41a5135929a3d29.png",
+    "index.html": "/myfirstproject/index.html",
+    "main.79b96ff1.css.map": "/myfirstproject/static/css/main.79b96ff1.css.map",
+    "main.43b4deff.js.map": "/myfirstproject/static/js/main.43b4deff.js.map",
+    "787.c939ce25.chunk.js.map": "/myfirstproject/static/js/787.c939ce25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b96ff1.css",
+    "static/js/main.43b4deff.js"
+  ]
+}
